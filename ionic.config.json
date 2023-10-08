@@ -1,0 +1,7 @@
+{
+  "name": "counter-app-with-state-management-context-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

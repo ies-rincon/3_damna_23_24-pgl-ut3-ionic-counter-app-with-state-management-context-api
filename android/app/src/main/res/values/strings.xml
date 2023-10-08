@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">counter-app-with-state-management-context-api</string>
+    <string name="title_activity_main">counter-app-with-state-management-context-api</string>
+    <string name="package_name">counter.app.with.state.management.context.api</string>
+    <string name="custom_url_scheme">counter.app.with.state.management.context.api</string>
+</resources>
